@@ -1,0 +1,8 @@
+Before opening the game
+please put "1.wav" file in your C drive "C:\1.wav"
+
+Project team
+1-Mahmoud Gaber Ahmed
+2-Mohamed Tarek Sayed
+3-Ahmed Kamal
+4-Kazem Araby

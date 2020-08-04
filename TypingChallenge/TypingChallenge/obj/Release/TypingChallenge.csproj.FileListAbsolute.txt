@@ -1,0 +1,49 @@
+C:\Users\Tegoo\Desktop\ITI\Projects\2-C#\TypingChallenge\TypingChallenge\bin\Release\TypingChallenge.exe.config
+C:\Users\Tegoo\Desktop\ITI\Projects\2-C#\TypingChallenge\TypingChallenge\bin\Release\TypingChallenge.exe
+C:\Users\Tegoo\Desktop\ITI\Projects\2-C#\TypingChallenge\TypingChallenge\bin\Release\TypingChallenge.pdb
+C:\Users\Tegoo\Desktop\ITI\Projects\2-C#\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.Form1.resources
+C:\Users\Tegoo\Desktop\ITI\Projects\2-C#\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.Properties.Resources.resources
+C:\Users\Tegoo\Desktop\ITI\Projects\2-C#\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.csproj.GenerateResource.cache
+C:\Users\Tegoo\Desktop\ITI\Projects\2-C#\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.exe
+C:\Users\Tegoo\Desktop\ITI\Projects\2-C#\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.pdb
+C:\Users\Ahmed\Desktop\New folder\17-03-2020\TypingChallenge\TypingChallenge\bin\Release\TypingChallenge.exe.config
+C:\Users\Ahmed\Desktop\New folder\17-03-2020\TypingChallenge\TypingChallenge\bin\Release\TypingChallenge.exe
+C:\Users\Ahmed\Desktop\New folder\17-03-2020\TypingChallenge\TypingChallenge\bin\Release\TypingChallenge.pdb
+C:\Users\Ahmed\Desktop\New folder\17-03-2020\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.csprojAssemblyReference.cache
+C:\Users\Ahmed\Desktop\New folder\17-03-2020\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.Form1.resources
+C:\Users\Ahmed\Desktop\New folder\17-03-2020\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\New folder\17-03-2020\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.csproj.GenerateResource.cache
+C:\Users\Ahmed\Desktop\New folder\17-03-2020\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.exe
+C:\Users\Ahmed\Desktop\New folder\17-03-2020\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.pdb
+C:\Users\Ahmed\Desktop\New folder\17-03-2020\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.userProfile.resources
+C:\MY LAB\ITI\C#\project\New folder\17-03-2020\TypingChallenge\TypingChallenge\bin\Release\TypingChallenge.exe.config
+C:\MY LAB\ITI\C#\project\New folder\17-03-2020\TypingChallenge\TypingChallenge\bin\Release\TypingChallenge.exe
+C:\MY LAB\ITI\C#\project\New folder\17-03-2020\TypingChallenge\TypingChallenge\bin\Release\TypingChallenge.pdb
+C:\MY LAB\ITI\C#\project\New folder\17-03-2020\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.csprojAssemblyReference.cache
+C:\MY LAB\ITI\C#\project\New folder\17-03-2020\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.Form1.resources
+C:\MY LAB\ITI\C#\project\New folder\17-03-2020\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.Properties.Resources.resources
+C:\MY LAB\ITI\C#\project\New folder\17-03-2020\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.userProfile.resources
+C:\MY LAB\ITI\C#\project\New folder\17-03-2020\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.csproj.GenerateResource.cache
+C:\MY LAB\ITI\C#\project\New folder\17-03-2020\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.exe
+C:\MY LAB\ITI\C#\project\New folder\17-03-2020\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.pdb
+C:\MY LAB\ITI\C#\project\New folder\last version for release\TypingChallenge\TypingChallenge\bin\Release\TypingChallenge.exe.config
+C:\MY LAB\ITI\C#\project\New folder\last version for release\TypingChallenge\TypingChallenge\bin\Release\TypingChallenge.exe
+C:\MY LAB\ITI\C#\project\New folder\last version for release\TypingChallenge\TypingChallenge\bin\Release\TypingChallenge.pdb
+C:\MY LAB\ITI\C#\project\New folder\last version for release\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.csprojAssemblyReference.cache
+C:\MY LAB\ITI\C#\project\New folder\last version for release\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.Form1.resources
+C:\MY LAB\ITI\C#\project\New folder\last version for release\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.Properties.Resources.resources
+C:\MY LAB\ITI\C#\project\New folder\last version for release\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.userProfile.resources
+C:\MY LAB\ITI\C#\project\New folder\last version for release\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.csproj.GenerateResource.cache
+C:\MY LAB\ITI\C#\project\New folder\last version for release\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.exe
+C:\MY LAB\ITI\C#\project\New folder\last version for release\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.pdb
+C:\Users\Tegoo\Desktop\Release Product\last version for release\TypingChallenge\TypingChallenge\bin\Release\TypingChallenge.exe.config
+C:\Users\Tegoo\Desktop\Release Product\last version for release\TypingChallenge\TypingChallenge\bin\Release\TypingChallenge.exe
+C:\Users\Tegoo\Desktop\Release Product\last version for release\TypingChallenge\TypingChallenge\bin\Release\TypingChallenge.pdb
+C:\Users\Tegoo\Desktop\Release Product\last version for release\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.csprojAssemblyReference.cache
+C:\Users\Tegoo\Desktop\Release Product\last version for release\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.Form1.resources
+C:\Users\Tegoo\Desktop\Release Product\last version for release\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.Properties.Resources.resources
+C:\Users\Tegoo\Desktop\Release Product\last version for release\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.userProfile.resources
+C:\Users\Tegoo\Desktop\Release Product\last version for release\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.csproj.GenerateResource.cache
+C:\Users\Tegoo\Desktop\Release Product\last version for release\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Tegoo\Desktop\Release Product\last version for release\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.exe
+C:\Users\Tegoo\Desktop\Release Product\last version for release\TypingChallenge\TypingChallenge\obj\Release\TypingChallenge.pdb
